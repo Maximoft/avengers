@@ -7,3 +7,4 @@
 
 * necro espada 
 * daga de hela 
+* lanza de Ades
