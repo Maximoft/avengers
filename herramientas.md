@@ -3,6 +3,7 @@
 * Martillo de thor
 * lanza de namor
 * casco de magneto
+* ojo de agamoto
 
 # Herramientas de villanos
 
